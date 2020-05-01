@@ -26,7 +26,12 @@ Please respond to the following prompts to demonstrate your understanding of pro
 Describe the break down process of your first release. **(Non-UX students only)**
 
 - Include a screenshot of your current Trello board.
+
+    Answer: Added screenshot to folder
+
 - What are the user stories you broke your first release into? Please list them out.
+
+    Answer: we did a navBar, set up some redux, and a landing page.
 
 Describe the design choices behind one of your designs for one flow. **(UX students only)**
 
@@ -38,8 +43,16 @@ Describe the design choices behind one of your designs for one flow. **(UX stude
 Find a Trello card that is assigned to you. **(Non-UX students only)**
 
 - Include a screenshot of the detailed Trello card
+
+    Answer: Homepage feature
+
 - How does this task tie to the overall product vision?
+
+    Answer: This task is will give the first impression when users vist our website.
+
 - What steps go into completing this task? How long do you think it will take you to deliver this task?
+
+    Answer: I've been looking into other landing pages and will be delivered before the end of the week.
 
 Describe how you implemented feedback from design critiques. **(UX students only)**
 - What feedback did you receive from other teams and your design manager? Talk about one specific piece of feedback in detail.
